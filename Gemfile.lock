@@ -59,7 +59,7 @@ GEM
     mocha (0.13.3)
       metaclass (~> 0.0.1)
     multi_json (1.7.2)
-    mysql2 (0.3.11)
+    mysql (2.9.1)
     net-ldap (0.3.1)
     nokogiri (1.5.9)
     pg (0.15.1)
@@ -127,7 +127,6 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord-jdbc-adapter (= 1.2.5)
-  activerecord-jdbcmysql-adapter
   builder (= 3.0.0)
   capybara (~> 2.0.0)
   coderay (~> 1.0.6)
@@ -135,9 +134,9 @@ DEPENDENCIES
   i18n (~> 0.6.0)
   jquery-rails (~> 2.0.2)
   mocha (~> 0.13.3)
-  mysql2 (~> 0.3.11)
+  mysql
   net-ldap (~> 0.3.1)
-  pg
+  pg (>= 0.11.0)
   rack-openid
   rails (= 3.2.13)
   rdoc (>= 2.4.2)
