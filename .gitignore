@@ -22,6 +22,7 @@
 !/public/themes/README
 !/public/themes/pixel-cookers
 !/public/themes/redmine_theme_sparse
+!/publie/plugin_assets
 /tmp/*
 /tmp/cache/*
 /tmp/pdf/*
