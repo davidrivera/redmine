@@ -16,7 +16,7 @@
 /plugins/*
 !/plugins/README
 /public/dispatch.*
-/public/themes/*
+!/public/themes/*
 !/public/themes/alternate
 !/public/themes/classic
 !/public/themes/README
