@@ -21,6 +21,7 @@
 !/public/themes/classic
 !/public/themes/README
 !/public/themes/pixel-cookers
+!/public/themes/redmine_theme_sparse
 /tmp/*
 /tmp/cache/*
 /tmp/pdf/*
