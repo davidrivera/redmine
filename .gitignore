@@ -16,12 +16,9 @@
 /plugins/*
 !/plugins/README
 /public/dispatch.*
-!/public/themes/*
 !/public/themes/alternate
 !/public/themes/classic
 !/public/themes/README
-!/public/themes/pixel-cookers
-!/public/themes/redmine_theme_sparse
 !/public/plugin_assets
 /tmp/*
 /tmp/cache/*
